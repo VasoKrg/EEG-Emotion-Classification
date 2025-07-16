@@ -42,4 +42,4 @@ Experiments were logged and tracked with **Weights & Biases (wandb)**, including
 
 A detailed explanation of methodology, experiments, and analysis is available in the full thesis (Greek Language only):
 
-📎 [Download Thesis (PDF)](./KARAGIANNIDI_Thesis.pdf)
+📎 [Download Thesis (PDF)](./Thesis.pdf)
