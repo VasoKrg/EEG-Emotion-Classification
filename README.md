@@ -40,6 +40,6 @@ Experiments were logged and tracked with **Weights & Biases (wandb)**, including
 
 ## Full Thesis Document
 
-A detailed explanation of methodology, experiments, and analysis is available in the full thesis (Greek Language only):
+A detailed explanation of methodology, experiments, and analysis is available in the full thesis (Greek version only):
 
-📎 [Download Thesis (PDF)](THESIS.pdf)
+📎 [Visit the link to the thesis](https://nemertes.library.upatras.gr/items/f30d0961-bdfe-4404-bd8a-8ae31cd74c1d)
